@@ -1,0 +1,3 @@
+The Snake game is just a classic and starting level of a game development for all the Gamers.
+The main motive is to learn the process what the functinos are doing and how to use them properly.
+Explore the code, find new function, question yourself, get the answers from Internet. Enjoy coding...
